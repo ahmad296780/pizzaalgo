@@ -1,3 +1,6 @@
 decide what resturant to order from
 decide what pizza to order
 call resturant
+place order for my pizza
+pay for pizza with credit card
+wait for pizza
